@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(90deg, #462280 1.18%, #6826d3 100%);
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 30px;
+  border-radius: 5px;
+}
